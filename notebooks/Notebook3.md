@@ -77,4 +77,4 @@ I spent about 7 hours working on the project this week.
 **Compared to what you wrote in your contract about what you want to get out of this
 project, how did this week go?**
 
-This week went very well relative to my plan, I am on pace. However, I did hope to have made more significant progress on the evaluator to be able to add more functionality which I was not able to, so I hope to be able to achieve all my plans for this upcoming week so that next week I can be in a state where the project feels much more like I have developed a complete DSL which I can functionality to later.
+This week went very well relative to my plan, as I was able to implement my evaluator such that my DSL works for at least one of the functions, so I am on pace. However, I did hope to have made more progress on the evaluator to be ahead of that plan to able to add more functionality which I was not able to, so I hope to be able to achieve all my plans for this upcoming week so that next week I can be in a state where the project feels much more like I have developed a complete DSL which I can functionality to later.
